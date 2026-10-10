@@ -7,8 +7,8 @@
 <br />
 
 ## Sobre mim
--  Atualmente estou estudando sobre **Análise de Dados com Python**
--  No momento estou aprendendo **Como utilizar Pandas e Machine Learning para tomar Decisões**
+-  Atualmente estou praticando como **Utilizar a IA para desenvolver meus projetos, entender arquiteturas e tomar as melhores decisões**
+
 
 
 ##  Habilidades & Ferramentas
